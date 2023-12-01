@@ -1,0 +1,26 @@
+{
+  "Clientes": [
+    {
+      "nombre": "juan",
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "confirmar": "123456",
+      "rol": "Empleados",
+      "id": 1
+    },
+    {
+      "nombre": "juanjo",
+      "email": "juanjo@gmail.com",
+      "password": "123456",
+      "confirmar": "123456",
+      "rol": "Clientes",
+      "id": 2
+    }
+  ],
+  "tickets": [
+    {
+      "estado": "Resuelto",
+      "id": 1
+    }
+  ]
+}
